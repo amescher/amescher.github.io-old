@@ -7,6 +7,10 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+- type: document
+  path: Projects
+  label: Projects
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
