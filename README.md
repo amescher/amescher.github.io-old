@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Massively
 > This is Massively, a text-heavy, article-oriented design built around a huge background
 image.
@@ -72,3 +73,6 @@ Credits:
 		Skel (skel.io)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 ```
+=======
+# amescher.github.io
+>>>>>>> parent of b92a716... Updated to StartBoostrap Theme
